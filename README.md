@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Pandas , CSS**
+- 💬 Ask me about **Pandas , C++**
 
 - 📫 How to reach me **akashsuklabaidya593@gmail.com**
 
